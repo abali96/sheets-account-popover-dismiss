@@ -10,7 +10,9 @@ When you open a Google Sheet, a popover appears in the top-right corner showing 
 - Keystrokes go to the focused cell instead of the expected dialog
 - You end up accidentally overwriting cell contents
 
-This is a small but persistent annoyance that interrupts your workflow every single time you open a spreadsheet. Multiply this across billions of spreadsheet opens per year and it's a real drag on global GDP.
+This is a small but persistent annoyance that interrupts your workflow every single time you open a spreadsheet.
+
+Multiply this by the billions of times Google Sheets is opened annually, and you're looking at a mass extinction event for human productivity.
 
 ## The Solution
 
